@@ -1012,7 +1012,7 @@ nav.main-menu {
      top: 10px;
 }
 .main-menu ul>li>ul>li>a {
-     background: none !important;
+     background: white;
 }
 .mean-container .mean-nav {
      margin-top: 0px;
