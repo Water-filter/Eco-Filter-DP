@@ -1178,6 +1178,10 @@ ul.social_icon li a:hover {
      background-color: #4ac9f0;
      color: #fff;
 }
+.text-bg mark {
+ background-color: black;
+  color: white;
+}
 .text {
      position: inherit;
      text-align: left;
