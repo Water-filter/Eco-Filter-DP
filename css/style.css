@@ -1452,6 +1452,12 @@ ul.social_icon li a:hover {
      background: url(../images/Fondo.png);
      background-repeat: no-repeat;
 }
+.review123 {
+     padding-top: 90px;
+     padding-bottom: 90px;
+     background: url(../images/Fondo.png);
+     background-repeat: no-repeat;
+}
 .review .titlepage {
      padding-bottom: 15px;
 }
